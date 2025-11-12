@@ -3,6 +3,7 @@
 // implementation of linked list by two methods are-->
 //1--> STL
 //2--> Scratch--> used by class and object:
+//There are four functions in linked list are--> Push_front, push_back, pop_front, pop_back:
 
 //implementation of linked list by the scrach:
 
